@@ -1,2 +1,2 @@
 # barbershop
-Учебный проект от [HTML Academy] (https://up.htmlacademy.ru/)
+* Учебный проект от [HTML Academy](https://up.htmlacademy.ru/)
